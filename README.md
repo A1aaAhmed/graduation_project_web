@@ -1,16 +1,4 @@
-# control_page
 
-A new Flutter project.
+https://github.com/A1aaAhmed/graduation_project_web/assets/81260750/156104f7-f8ea-4209-9dd4-9b4023452ffd
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+It is a control page with two modes: first, it serves as a payment page for users to pay their fees, and second, it serves as a mentorship page for maintaining train state by reading sensors installed in the train and displaying the results using MQTT. 
